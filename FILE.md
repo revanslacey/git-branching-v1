@@ -9,10 +9,16 @@
 9 git commit -a -m "Commit 3"
 10 git commit -a -m "Commit 4"
 11 git checkout -b bug-fix-experimental
-12 git checkout bug-fix
-13 git commit -a -m "Commit 5"
-14 git merge master
-15 git mergetool
-16 git commit -a -m "Commit 6"
-17 git checkout bug-fix
-18 git commit -a -m "Commit 11"
+12 git commit -a -m "Commit 7"
+13 git commit -a -m "Commit 8"
+14 git commit -a -m "Commit 9"
+15 git checkout bug-fix
+16 git commit -a -m "Commit 5"
+17 git merge master
+18 git mergetool
+19 git commit -a -m "Commit 6"
+20 git checkout bug-fix
+21 git commit -a -m "Commit 11"
+22 git merge bug-fix-experimental
+23 git mergetool
+24 git commit -a -m "Commit 12"
