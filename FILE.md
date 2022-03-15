@@ -14,3 +14,5 @@
 14 git merge master
 15 git mergetool
 16 git commit -a -m "Commit 6"
+17 git checkout bug-fix
+18 git commit -a -m "Commit 11"
