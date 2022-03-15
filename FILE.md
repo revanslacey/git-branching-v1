@@ -5,3 +5,4 @@
 5 git checkout bug-fix-experimental
 6 git commit -a -m "Commit 7"
 7 git commit -a -m "Commit 8"
+8 git commit -a -m "Commit 9"
