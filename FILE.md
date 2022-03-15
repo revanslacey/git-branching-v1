@@ -4,3 +4,4 @@
 4 git commit -a -m "Commit 4"
 5 git checkout bug-fix-experimental
 6 git commit -a -m "Commit 7"
+7 git commit -a -m "Commit 8"
