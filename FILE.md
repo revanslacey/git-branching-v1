@@ -28,3 +28,4 @@
 28 git checkout master
 29 git merge bug-fix
 30 git mergetool
+31 git commit -a -m "Commit 13"
